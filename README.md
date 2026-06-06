@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Lucy 👋
 
-<!--
-**lucypickersgill/lucypickersgill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's Student in Robotics Engineering at Drexel University
 
-Here are some ideas to get you started:
+🤖 Interested in:
+- Robotics
+- Autonomous Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Featured Projects
+
+### Drone-Based Mobile Sensing
+Simulation of autonomous drone navigation in a custom urban environment using ROS, Gazebo, A*, and Particle Filters.
+
+### TurtleBot Navigation
+Path planning, localisation, and autonomous navigation using ROS.
+
+### Reinforcement Learning
+Actor-Critic implementation for learning continuous control policies.
+
+📈 GitHub Stats
+
+<!-- GitHub stats cards -->
+
+📫 Connect With Me
+
+LinkedIn: linkedin.com/in/lucypickersgill
+Email: lpickersgill.robotics@gmail.com
