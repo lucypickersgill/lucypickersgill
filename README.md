@@ -6,22 +6,49 @@
 - Robotics
 - Autonomous Systems
 
-🚀 Featured Projects
+## 🛠️ Tech Stack
 
-### Drone-Based Mobile Sensing
-Simulation of autonomous drone navigation in a custom urban environment using ROS, Gazebo, A*, and Particle Filters.
+<table>
+<tr>
+<th>Category</th>
+<th>Technologies</th>
+</tr>
 
-### TurtleBot Navigation
-Path planning, localisation, and autonomous navigation using ROS.
+<tr>
+<td>💻 Programming & Software</td>
+<td>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,matlab,ros,linux,ubuntu,docker" />
+</td>
+</tr>
 
-### Reinforcement Learning
-Actor-Critic implementation for learning continuous control policies.
+<tr>
+<td>🤖 Robotics Engineering</td>
+<td>
+Robot Navigation • SLAM • Localization / AMCL • Gazebo • RViz
+</td>
+</tr>
 
-📈 GitHub Stats
+<tr>
+<td>⚙️ Mechanical & CAD Design</td>
+<td>
+<img src="https://skillicons.dev/icons?i=autocad" />
+<br>
+SolidWorks • 3D Printing
+</td>
+</tr>
+
+<tr>
+<td>🔌 Electronics & Hardware</td>
+<td>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+<br>
+Sensor Integration • LiDAR • Cameras • IMU
+</td>
+</tr>
+
+</table>
 
 <!-- GitHub stats cards -->
 
 📫 Connect With Me
-
-LinkedIn: linkedin.com/in/lucypickersgill
 Email: lpickersgill.robotics@gmail.com
