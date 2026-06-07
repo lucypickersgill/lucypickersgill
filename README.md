@@ -11,8 +11,8 @@
 
 <table>
 <tr>
-<th>Category</th>
-<th>Technologies</th>
+<th align="left">>Category</th>
+<th align="left">>Technologies</th>
 </tr>
 
 <tr>
