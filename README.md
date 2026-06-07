@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/divider.webp" width="100%">
+  <img src="assets/planets.webp" width="100%">
 </p>
 
 # print("Hello World! I'm Lucy.")
@@ -85,5 +85,5 @@
 </table>
 
 <p align="center">
-  <img src="assets/divider.webp" width="100%">
+  <img src="assets/planets.webp" width="100%">
 </p>
