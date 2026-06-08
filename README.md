@@ -2,10 +2,17 @@
   <img src="assets/planets.webp" width="100%">
 </p>
 
-# print("Hello World! I'm Lucy.")
+# print("Hello World, I'm Lucy!")
 
-🎓 **Graduate Candidate in Robotics and Automation at Drexel University**
+### 🎓 **Graduate Candidate in Robotics and Automation at Drexel University**
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucypickersgill/lucypickersgill/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucypickersgill/lucypickersgill/output/github-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/lucypickersgill/lucypickersgill/output/github-snake.svg">
+  </picture>
+</p>
 
 ## Skills
 
@@ -42,7 +49,7 @@
 </tr>
 
 <tr>
-<td><b>📍 Planning & Control</b></td>
+<td><b>📍 Planning && Control</b></td>
 <td>
 <img src="assets/icons/astar.png" height="48" title="A* Search"/>
 <img src="assets/icons/dijkstra.png" height="48" title="Dijkstra"/>
@@ -63,7 +70,7 @@
 </tr>
 
 <tr>
-<td><b>⚙️ Mechanical & CAD Design</b></td>
+<td><b>⚙️ Mechanical && CAD Design</b></td>
 <td>
 <img src="assets/icons/solidworks.png" height="48" title="SolidWorks"/>
 <img src="assets/icons/autocad.png" height="48" title="AutoCAD"/>
@@ -73,7 +80,7 @@
 </tr>
 
 <tr>
-<td><b>🔌 Electronics & Hardware</b></td>
+<td><b>🔌 Electronics && Hardware</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" height="48"/>
 <img src="assets/icons/lidar.png" height="48" title="LiDAR"/>
@@ -85,14 +92,6 @@
 </table>
 
 
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucypickersgill/lucypickersgill/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucypickersgill/lucypickersgill/output/github-snake.svg">
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/lucypickersgill/lucypickersgill/output/github-snake.svg">
-  </picture>
-</p>
 
 
 
